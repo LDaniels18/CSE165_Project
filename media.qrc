@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/audio">
+        <file>back.wav</file>
+        <file>zoom.wav</file>
+        <file>coin.wav</file>
+        <file>OutroSong.wav</file>
+        <file>Sad_theme_Song.wav</file>
+        <file>Peaceful_Inrtro.wav</file>
+        <file>CoinDrop.wav</file>
+    </qresource>
+    <qresource prefix="/sprites">
+        <file>coin.gif</file>
+        <file>warrants.png</file>
+        <file>car.png</file>
+        <file>character.png</file>
+        <file>coin.png</file>
+        <file>iconTest.png</file>
+        <file>carNew.png</file>
+        <file>characterNew.png</file>
+        <file>coinNew.png</file>
+        <file>coinNewAgain.png</file>
+        <file>lawBook.png</file>
+        <file>lawBookLeft.png</file>
+        <file>lawBookRight.png</file>
+        <file>lawBookUp.png</file>
+        <file>FATCAT.png</file>
+        <file>FATCAT2.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
